@@ -1,17 +1,46 @@
 [
     {
         "no": 1,
-        "soal": "asdasdkuagsdkjg",
-        "answer" : "entah"
+        "soal": "Kata thaharah menurut bahasa berarti",
+        "answer": "a",
+        "option" : {
+            "a": "bersuci",
+            "b": "berhaji",
+            "c": "berkurban",
+            "d": "berpuasa"
+        }
     },
     {
         "no": 2,
-        "soal": "asdasdkuagsdkjg",
-        "answer" : "siapa"
+        "soal": "Menyucikan diri dari najis dan hadas agar sah menjalankan ibadah adalah pengertian taharah secara ....",
+        "answer": "d",
+        "option" : {
+            "a": "bahasa",
+            "b": "kira-kira",
+            "c": "mutlak",
+            "d": "istilah"
+        }
     },
     {
         "no": 3,
-        "soal": "asdasdkuagsdkjg",
-        "answer" : "yang"
+        "soal": "Najis ialah sesuatu yang kotor menurut",
+        "answer": "c",
+        "option" : {
+            "a": "diri sendiri",
+            "b": "orang yang sehat",
+            "c": "agama",
+            "d": "diri sendiri dan orang lain"
+        }
+    },
+    {
+        "no": 4,
+        "soal": "kotoran sapi, kerbau dan kambing termasuk najis",
+        "answer": "",
+        "option" : {
+            "a": "mukhaffafah",
+            "b": "mughalladah",
+            "c": "mualaf",
+            "d": "mutawasithah"
+        }
     }
 ]
