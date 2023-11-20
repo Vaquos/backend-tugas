@@ -35,7 +35,18 @@
     {
         "no": 4,
         "soal": "kotoran sapi, kerbau dan kambing termasuk najis",
-        "answer": "",
+        "answer": "d",
+        "option" : {
+            "a": "mukhaffafah",
+            "b": "mughalladah",
+            "c": "mualaf",
+            "d": "mutawasithah"
+        }
+    },
+    {
+        "no": 5,
+        "soal": "air liur anjing dan babi termasuk najis",
+        "answer": "b",
         "option" : {
             "a": "mukhaffafah",
             "b": "mughalladah",
