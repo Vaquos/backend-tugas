@@ -53,5 +53,60 @@
             "c": "mualaf",
             "d": "mutawasithah"
         }
+    },
+    {
+        "no": 6,
+        "soal": "Air hujan, air laut, air salju adalah termasuk ke dalam jenis ...",
+        "answer": "b",
+        "option" : {
+            "a": "air musta'mal",
+            "b": "air mutlaq",
+            "c": "Air suci tidak mensucikan",
+            "d": "Air mutanajis"
+        }
+    },
+    {
+        "no": 7,
+        "soal": "Berikut ini adalah yang termasuk contoh air mutlaq...",
+        "answer": "c",
+        "option" : {
+            "a": "Air kelapa",
+            "b": "Air nira",
+            "c": "Air sumur",
+            "d": "Air perasan buah-buahan"
+        }
+    },
+    {
+        "no": 8,
+        "soal": "Air kelapa muda adalah termasuk ke dalam jenis ...",
+        "answer": "c",
+        "option" : {
+            "a": "Air musta'mal",
+            "b": "Air mutlaq",
+            "c": "Air suci tidak mensucikan",
+            "d": "Air mutanajis"
+        }
+    },
+    {
+        "no": 9,
+        "soal": "Jenis air berikut ini suci tetapi tidak mensucikan, kecuali ...",
+        "answer": "d",
+        "option" : {
+            "a": "Air teh, kopi, susu",
+            "b": "Air sungai, air kelapa, minyak wangi",
+            "c": "Air nira, sabun, telaga",
+            "d": "Air zam-zam, air sumur, air laut"
+        }
+    },
+    {
+        "no": 10,
+        "soal": "Air yang terkena sesuatu yang najis disebut ...",
+        "answer": "c",
+        "option" : {
+            "a": "Air musta'mal",
+            "b": "Air mutlaq",
+            "c": "Air mutanajis",
+            "d": "Air murni"
+        }
     }
 ]
